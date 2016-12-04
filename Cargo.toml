@@ -1,0 +1,7 @@
+[package]
+name = "rustendo-entertainment-system"
+version = "0.1.0"
+authors = ["Nick Cervantes <nicholaslcervantes@gmail.com>"]
+
+[dependencies]
+rand="*"
